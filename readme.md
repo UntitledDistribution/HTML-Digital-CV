@@ -1,1 +1,6 @@
-No Information at the moment
+# HTML Digital CV
+Welcome! This repository is designed to prove my **basic HTML skills** by presenting my skills in a small HTML + CSS + Javsscript Website.
+At the moment, here is the files i am currently working on:
+ - index.html
+
+You can view the site via GitHub pages by navigating to this link: https://untitleddistribution.github.io/HTML-Digital-CV

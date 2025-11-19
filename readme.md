@@ -3,4 +3,5 @@ Welcome! This repository is designed to prove my **basic HTML skills** by presen
 At the moment, here is the files i am currently working on:
  - index.html
 
-You can view the site via GitHub pages by navigating to this link: https://untitleddistribution.github.io/HTML-Digital-CV
+You can view the site via the pre-deployed GitHub page by navigating to this link: 
+https://untitleddistribution.github.io/HTML-Digital-CV
